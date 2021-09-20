@@ -22,8 +22,8 @@ and open the template in the editor.
     -fx-max-width:300;
     -fx-min-width:300;
     
-    -fx-max-height:225;
-    -fx-min-height:225;
+    -fx-max-height:325;
+    -fx-min-height:325;
     
     -fx-padding: 15px;
 }
@@ -32,9 +32,10 @@ and open the template in the editor.
     -fx-max-width:300;
     -fx-min-width:300;
     
-    -fx-max-height:225;
-    -fx-min-height:225;
+    -fx-max-height:200;
+    -fx-min-height:200;
     
+    -fx-padding: 15px;
 }
 
 .sidebar-container{
@@ -86,5 +87,10 @@ and open the template in the editor.
 
 .h1{
     -fx-font: 18 arial;
+    -fx-font-weight: bold
+}
+
+.h2{
+    -fx-font: 15 arial;
     -fx-font-weight: bold
 }
