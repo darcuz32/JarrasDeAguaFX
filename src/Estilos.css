@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16/02/2020, 03:08:14 PM
+    Author     : Roberto Carlos Garcia Salazar
+*/
+
+.panels1{
+    -fx-max-width:300;
+    -fx-min-width:300;
+    
+    -fx-max-height:75;
+    -fx-min-height:75;
+    
+    -fx-padding: 15px;
+}
+
+.panels2{
+    -fx-max-width:300;
+    -fx-min-width:300;
+    
+    -fx-max-height:225;
+    -fx-min-height:225;
+    
+    -fx-padding: 15px;
+}
+
+.panels3{
+    -fx-max-width:300;
+    -fx-min-width:300;
+    
+    -fx-max-height:225;
+    -fx-min-height:225;
+    
+}
+
+.sidebar-container{
+    -fx-spacing: 25;
+}
+
+.inputs-container{
+    -fx-spacing: 10;
+}
+
+.options-container{
+    -fx-max-width:302;
+    -fx-min-width:302;
+    
+    -fx-max-height:660;
+    -fx-min-height:660;
+    
+    -fx-alignment: TOP_LEFT;
+    
+    -fx-border-color: black;
+}
+
+.canvas-container{
+    -fx-max-width:900;
+    -fx-min-width:900;
+    
+    -fx-max-height:660;
+    -fx-min-height:660;
+    
+    -fx-border-color: black;
+}
+
+
+.btn{
+    -fx-max-width:75;
+    -fx-min-width:75;
+    
+    -fx-max-height:30;
+    -fx-min-height:30;
+
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+}
+
+.input-options{
+    -fx-max-width:130;
+    -fx-min-width:130;
+}
+
+.h1{
+    -fx-font: 18 arial;
+    -fx-font-weight: bold
+}
